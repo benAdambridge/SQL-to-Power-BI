@@ -14,3 +14,5 @@ The Power BI dashboard then uses this SQL data to visualize sales for Sandersons
 
 
 'Creating a view for Power BI', demonstrates me creating a bespoke view of all the data I need from the multiple tables in the database in PostgreSQL ready for loading in Power BI.
+
+'Creating table and inserting data', shows one example of many, of how I created the database and the individual connected tables within it, using SQL.
